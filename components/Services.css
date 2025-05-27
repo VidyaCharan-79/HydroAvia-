@@ -1,0 +1,20 @@
+.hetero{
+    background-image: url('https://t3.ftcdn.net/jpg/01/77/14/32/360_F_177143288_8yenhiFQr1zX6gi8QDK6zeaLztDgxtuw.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    position: relative;
+  }
+  .text{
+    height: 200px;
+    background-color: aliceblue;
+  }
+  .services h1{
+    color: rgb(12, 11, 11);
+  }
